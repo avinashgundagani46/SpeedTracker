@@ -3,4 +3,11 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="text_gps_active">GPS inactive</string>
+    <string name="text_current_speed">Current Speed:</string>
+    <string name="text_average_speed">Average Speed:</string>
+    <string name="text_overall_time">Overall Time:</string>
+    <string name="text_start_tracking">START TRACKING</string>
+    <string name="text_stop_tracking">STOP TRACKING</string>
+    <string name="kmperhr">km/h</string>
 </resources>
